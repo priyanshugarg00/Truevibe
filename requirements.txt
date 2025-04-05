@@ -8,3 +8,4 @@ pytesseract
 SpeechRecognition
 textblob
 trafilatura
+opencv-python-headless
