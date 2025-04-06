@@ -260,8 +260,8 @@ st.markdown("---")
 st.markdown("""
 **About this app:**  
 This application uses TextBlob for sentiment analysis, which calculates:
-- **Polarity**: A value between -1 (negative) and 1 (positive)
-- **Subjectivity**: A value between 0 (objective) and 1 (subjective)
+- Polarity: A value between -1 (negative) and 1 (positive)
+- Subjectivity: A value between 0 (objective) and 1 (subjective)
 
 The application can analyze text, social media posts, images (via OCR), and videos (via frame analysis and audio extraction).
 """)
