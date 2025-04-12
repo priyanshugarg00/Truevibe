@@ -53,12 +53,12 @@ def display_sentiment_results(result):
 # Configure the page
 st.set_page_config(
     page_title="Social Media Sentiment Analyzer",
-    page_icon="📊",
+    page_icon="😇",
     layout="wide"
 )
 
 # App title and description
-st.title("📊 Social Media Sentiment Analyzer")
+st.title("😇 Social Media Sentiment Analyzer")
 st.markdown("""
 This application helps you analyze the sentiment of social media content.
 Select an input method below to get started.
