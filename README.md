@@ -17,3 +17,7 @@
 ## start
 
  streamlit run app.py
+
+ ## deploy URL
+
+ https://truevibes.streamlit.app/
